@@ -1,4 +1,4 @@
-ü# blog_vue_admin
+blog_vue_admin
 
 ## Project setup
 ```
